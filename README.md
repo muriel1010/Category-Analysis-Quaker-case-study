@@ -1,4 +1,3 @@
-# Category-Analysis-Quaker-case-study
 # Quaker Cereal Category Performance Analysis
 
 ### Retail Category Analytics | Power BI | Business Intelligence
