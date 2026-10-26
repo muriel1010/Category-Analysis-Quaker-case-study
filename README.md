@@ -54,6 +54,13 @@ These are analytical recommendations, not implemented interventions or verified 
 
 **Analytical capabilities:** Retail performance analysis, KPI development, geographic analysis, product-level analysis, dashboard development, and business storytelling.
 
+## Power BI Dashboard
+
+Preview the three dashboard pages directly on GitHub:
+
+📊 [View Dashboard Images](dashboard/README.md)
+
+
 ### Power BI Dashboard
 
 Download the Power BI report from this repository:
