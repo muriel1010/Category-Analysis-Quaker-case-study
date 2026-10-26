@@ -58,10 +58,8 @@ These are analytical recommendations, not implemented interventions or verified 
 
 Preview the three dashboard pages directly on GitHub:
 
-📊 [View Dashboard Images](dashboard/README.md)
+📊 [View Dashboard Images](dashboard/images/)
 
-
-### Power BI Dashboard
 
 Download the Power BI report from this repository:
 
