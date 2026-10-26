@@ -66,7 +66,7 @@ Download the Power BI report from this repository:
 
 Read the detailed analysis and business interpretation:
 
-[Read the Medium case study](PASTE_YOUR_MEDIUM_CASE_STUDY_URL_HERE)
+[Read the Medium case study](https://medium.com/@murieltema93/diagnosing-quakers-50-8-sales-decline-a-retail-category-analytics-case-study-7d387173f8ac)
 
 ## Project Purpose
 
